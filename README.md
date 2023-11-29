@@ -73,8 +73,8 @@
 </section>
    <section>
       <h2>Contact Information</h2>
-      <li>Email: emeraldmaecharityalamat@gmail.com</li>
-      <li>Phone: (963) 132-1612</li>
+      <li>📧: emeraldmaecharityalamat@gmail.com</li>
+      <li>📞: (963) 132-1612</li>
    </section>
 
    <section>
